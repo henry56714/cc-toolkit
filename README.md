@@ -28,7 +28,7 @@ Claude Code 插件集合。
 
 ```bash
 # 添加市场
-/plugin marketplace add YOUR_GITHUB_USERNAME/cc-toolkit
+/plugin marketplace add henry56714/cc-toolkit
 
 # 安装插件
 /plugin install ralph-planning@cc-toolkit
