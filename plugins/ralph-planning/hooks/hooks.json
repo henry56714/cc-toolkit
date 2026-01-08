@@ -1,0 +1,16 @@
+{
+  "description": "Ralph-Planning Stop Hook - 自动迭代循环控制",
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "${CLAUDE_PLUGIN_ROOT}/hooks/stop-hook.sh"
+          }
+        ]
+      }
+    ]
+  }
+}

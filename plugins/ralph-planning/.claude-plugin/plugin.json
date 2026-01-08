@@ -1,0 +1,13 @@
+{
+  "name": "ralph-planning",
+  "version": "1.0.0",
+  "description": "自动迭代循环 + 结构化规划：结合 Ralph Wiggum 的自动循环机制和 Planning with Files 的三文件状态管理",
+  "author": "Henry",
+  "repository": "https://github.com/anthropics/claude-code",
+  "keywords": [
+    "automation",
+    "planning",
+    "iteration",
+    "task-management"
+  ]
+}

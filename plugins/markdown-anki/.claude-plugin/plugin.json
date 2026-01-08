@@ -1,0 +1,7 @@
+{
+  "name": "markdown-anki",
+  "version": "1.0.0",
+  "description": "从 Markdown 提取粗体标记的生词，翻译并生成 Anki 牌组",
+  "author": "Henry",
+  "keywords": ["anki", "vocabulary", "markdown", "translation", "flashcards", "language-learning"]
+}
